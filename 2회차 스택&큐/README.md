@@ -1,0 +1,2 @@
+1. 같은 숫자는 싫어 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
+2. 기능개발 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
