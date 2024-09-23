@@ -2,3 +2,5 @@
 2. 기능개발 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
 3. 올바른 괄호 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
 4. 프로세스 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42587)
+5. 다리를 지나는 트럭 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
+6. 주식가격 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
